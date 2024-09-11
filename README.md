@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Supermarket Sales Analysis 
 
 ## Descripción del Proyecto
@@ -75,3 +76,6 @@ pip install -r requirements.txt
 - `seaborn`
 - `scikit-learn`
 - `plotly`
+=======
+# supermarket_sales_analysis
+>>>>>>> ad504f65b0fad8350f778513ee2742bfaee641ec
